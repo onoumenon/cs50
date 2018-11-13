@@ -9,7 +9,7 @@ For instance, my script for Greedy gives out individual amount of quarters, dime
 However, all uploaded scripts are fully functional.
 
 I will also be uploading lesson notes and walkthroughs to my blog: 
-https://wordpress.com/view/stuffihavelearnt.home.blog
+https://stuffihavelearnt.home.blog/
 
 
 ## Psets:
