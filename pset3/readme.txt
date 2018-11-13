@@ -21,4 +21,4 @@ D4@1/8
 
 
 
-Most of the code (ie: converting text files into wav) have been provided, and I only needed to complete the implementation of helpers.c, which determines how different notes have different frequencies based on an algorithm.
+Most of the code (ie: converting text files into wav) have been provided.  I implemented helpers.c, which determines how different notes have different frequencies based on an algorithm.
