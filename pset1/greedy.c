@@ -1,3 +1,5 @@
+// Spits out least number of coins for amount owed.
+
 #include <cs50.h>
 #include <stdio.h>
 #include <math.h>
