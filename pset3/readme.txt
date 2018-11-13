@@ -10,4 +10,15 @@ This pset has 4 parts:
 
 4. Synthesize songs.
 
-It is part 4 that this git commit addresses. Most of the code has been provided, and I only needed to complete the implementation of helpers.c.
+The code uploaded synthesizes songs into wav files from text files transcribed from sheet music. 
+
+The text files for songs are not included, but they look like this:
+C4@1/4
+C4@1/4
+C4@1/8
+D4@1/8
+...
+
+
+
+Most of the code (ie: converting text files into wav) have been provided, and I only needed to complete the implementation of helpers.c, which determines how different notes have different frequencies based on an algorithm.
