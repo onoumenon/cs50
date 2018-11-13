@@ -10,4 +10,4 @@ This pset has 4 parts:
 
 4. Synthesize songs.
 
-It is part 4 that this git commit addresses. 
+It is part 4 that this git commit addresses. Most of the code has been provided, and I only needed to complete the implementation of helpers.c.
