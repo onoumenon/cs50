@@ -23,5 +23,7 @@ Using Jinja to create dynamic html pages (dropdown menu for eg):
 
 Resources:
 Flask: https://www.youtube.com/embed/X0dwkDh8kwA?autoplay=1&rel=0
+
 MVC: https://www.youtube.com/embed/Fr4P6FkZUTE?autoplay=1&rel=0
+
 SQL:https://www.youtube.com/embed/AywtnUjQ6X4?autoplay=1&rel=0
