@@ -11,10 +11,8 @@ SQL Injection: https://www.w3schools.com/sql/sql_injection.asp
 # Password hash: 
 from werkzeug.security import check_password_hash, generate_password_hash
 
-Selection of primary keys for SQL database: 
-I accidentally set a stock symbol as the primary key for the 'histories' table, and it therefore only displayed the 'buy' transaction.
 
-Using Jinja to create dynamic html pages (dropdown menu for eg):
+# Using Jinja:
               {% for stock in stocks%}
               <option value="{{ stock.symbol }}">{{ stock.symbol }}</option>
               {% endfor %}
