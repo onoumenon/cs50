@@ -13,7 +13,7 @@ https://stuffihavelearnt.home.blog/
 
 
 ## Psets:
-The Pset documentations can be found here:
+The Pset descriptions can be found here:
 - [Problem Set 1: Intro to C](https://docs.cs50.net/2018/x/psets/1/pset1.html)
 - [Problem Set 2: Cryptography](https://docs.cs50.net/2018/x/psets/2/pset2.html)
 - [Problem Set 3: Music Synthesizer](https://docs.cs50.net/2018/x/psets/3/pset3.html)
